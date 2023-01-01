@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 ![Img-FNF-Icon](img/icon64.png)
 I'm RonyxDumb! You can call me simply Ronyx or Kekko
 I'm a Coder || Programmer 💻
 
@@ -8,4 +8,3 @@ I'm a Coder || Programmer 💻
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=RonyxDumb&theme=radical)
 
-![Img-FNF-Icon](img/icon64.png)
