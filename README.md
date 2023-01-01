@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Haxe|Haxeflixel
 -->
 
-https://github-readme-stats.vercel.app/api?username= RonyxDumb &theme=radical
+![Github Stats](https://github-readme-stats.vercel.app/api?username= RonyxDumb &theme=radical)
