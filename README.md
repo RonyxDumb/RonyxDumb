@@ -1,6 +1,6 @@
-### Heya everyone 👋 
+### Hello! 👋 
 I'm RonyxDumb! You can call me simply Ronyx or Kekko
-I'm a Coder || Programmer 💻
+I'm a programmer and i like videogames :)
 
 - ✨️ I code something for FNF ![Img-FNF-Icon](img/icon32.png)
 - 🔭 I’m currently working on Android Porting (Haxe), specially with FNF 📱
