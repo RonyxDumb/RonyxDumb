@@ -1,4 +1,4 @@
-### Hi there 👋 ![Img-FNF-Icon](img/icon64.png)
+### Heya everyone 👋 ![Img-FNF-Icon](img/icon64.png)
 I'm RonyxDumb! You can call me simply Ronyx or Kekko
 I'm a Coder || Programmer 💻
 
