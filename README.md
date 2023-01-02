@@ -7,4 +7,5 @@ I'm a Coder || Programmer 💻
 - 🌱 I’m currently learning Haxe|Haxeflixel
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=RonyxDumb&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RonyxDumb&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
