@@ -6,7 +6,7 @@ I'm a programmer and i like videogames :)
 - 🔭 I’m currently working on Android Porting (Haxe), specially with FNF 📱
 - 🌱 I’m currently learning Haxe|Haxeflixel 
 
-![haxe](img/haxeflixel.svg)
+![haxe](img/haxeflixel.svg)(size=1)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=RonyxDumb&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RonyxDumb&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
