@@ -1,6 +1,5 @@
-### Hello! 👋 
-I'm RonyxDumb! You can call me simply Ronyx or Kekko
-I'm a programmer and i like videogames :)
+### Hayo! 👋 
+i like coding and playing videogames
 
 - ✨️ I code things 
 - 🔭 I’m currently working on various projects
