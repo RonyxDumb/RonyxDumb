@@ -1,5 +1,5 @@
 ### Hayo! 👋 
-i like coding and playing videogames
+i like coding and play videogames
 
 - ✨️ I code things 
 - 🔭 I’m currently working on various projects
