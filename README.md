@@ -2,8 +2,8 @@
 ### Hey there! I'm a curious learner
 
 - I'm studying at a technical institute (I.T.E.S. Fraccacreta)  
-- Currently learning Android app development  
-- Programming in **C++**  
+- Currently learning PC and Android app development  
+- Programming in **C++ and Haxe**  
 - Passionate about Computer Science
 
 [![Android](https://img.shields.io/badge/Android-in%20progress-green?logo=android&logoColor=white)](https://developer.android.com)
