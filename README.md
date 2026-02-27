@@ -10,4 +10,5 @@
 [![C++](https://img.shields.io/badge/C++-learning-blue?logo=c%2B%2B&logoColor=white)](https://cplusplus.com)
 
 
-![francep's Stats](https://github-readme-stats.vercel.app/api?username=RonyxDumb&theme=monokai&show_icons=true&hide_border=true&count_private=true)
+<!-- ![francep's Stats](https://github-readme-stats.vercel.app/api?username=RonyxDumb&theme=monokai&show_icons=true&hide_border=true&count_private=true) -->
+![RonyxDumb's GitHub stats](https://github-readme-stats.vercel.app/api?username=RonyxDumb&show_icons=true&theme=radical)
