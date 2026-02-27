@@ -17,9 +17,11 @@
 
 
 <!-- HEADER BANNER -->
+<!--
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:cc0000,100:ff4d4d&height=200&section=header&text=Welcome&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
+-->
 
 <h1 align="center">Hi, I'm Francesco Pio Pipino 👋</h1>
 
@@ -117,6 +119,8 @@ to engineer innovative solutions tomorrow.
 ---
 -->
 
+<!--
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4d4d,100:cc0000&height=120&section=footer"/>
 </p>
+-->
