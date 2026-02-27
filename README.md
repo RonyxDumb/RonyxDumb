@@ -73,6 +73,7 @@ I am currently studying and developing:
 
 ---
 
+<!--
 ## 📊 GitHub Statistics
 
 <p align="center">
@@ -96,6 +97,8 @@ I believe great software is built through:
 
 ---
 
+-->
+
 ## 📌 Current Status
 
 ![Android](https://img.shields.io/badge/Android-Developing-3DDC84?logo=android&logoColor=white)
@@ -104,12 +107,15 @@ I believe great software is built through:
 
 ---
 
+<!--
+
 ## 🌱 Looking Forward
 
 Building solid foundations today  
 to engineer innovative solutions tomorrow.
 
 ---
+-->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4d4d,100:cc0000&height=120&section=footer"/>
