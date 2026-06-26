@@ -76,10 +76,7 @@ I am currently studying and developing:
 ---
 
 ## 📌 Current Status
-
-![Android](https://img.shields.io/badge/Android-Developing-3DDC84?logo=android&logoColor=white)
-![C++](https://img.shields.io/badge/C++-Improving-00599C?logo=c%2B%2B&logoColor=white)
-![Haxe](https://img.shields.io/badge/Haxe-Exploring-EA8220?logo=haxe&logoColor=white)
+<a href="https://wakatime.com/badge/user/7ec68360-7112-4ff8-a974-7cd50bd3d31e/project/e3f3d7ed-ef03-4d4a-a3fb-ce53069c099f"><img src="https://wakatime.com/badge/user/7ec68360-7112-4ff8-a974-7cd50bd3d31e/project/e3f3d7ed-ef03-4d4a-a3fb-ce53069c099f.svg" alt="wakatime"></a>
 
 ---
 
