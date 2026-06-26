@@ -74,7 +74,13 @@ I am currently studying and developing:
 ---
 
 ## 📌 Current Status
-<a href="https://wakatime.com/badge/user/7ec68360-7112-4ff8-a974-7cd50bd3d31e/project/e3f3d7ed-ef03-4d4a-a3fb-ce53069c099f"><img src="https://wakatime.com/badge/user/7ec68360-7112-4ff8-a974-7cd50bd3d31e/project/e3f3d7ed-ef03-4d4a-a3fb-ce53069c099f.svg" alt="Super Emily Galaxy">Super Emily Galaxy</a>
+- Super Emily Galaxy
+
+<a href="https://wakatime.com/badge/user/7ec68360-7112-4ff8-a974-7cd50bd3d31e/project/e3f3d7ed-ef03-4d4a-a3fb-ce53069c099f"><img src="https://wakatime.com/badge/user/7ec68360-7112-4ff8-a974-7cd50bd3d31e/project/e3f3d7ed-ef03-4d4a-a3fb-ce53069c099f.svg" alt="Super Emily Galaxy"></a>
+
+- Versus 2026
+
+<a href="https://wakatime.com/badge/user/7ec68360-7112-4ff8-a974-7cd50bd3d31e/project/bf346848-0b2d-43f5-b79b-cc95de3d1193"><img src="https://wakatime.com/badge/user/7ec68360-7112-4ff8-a974-7cd50bd3d31e/project/bf346848-0b2d-43f5-b79b-cc95de3d1193.svg" alt="wakatime"></a>
 
 ---
 
