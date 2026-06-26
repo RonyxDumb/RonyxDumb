@@ -1,16 +1,34 @@
-# Francesco Pio Pipino
-## Make it possible
----
+<!-- HEADER -->
+<h1 align="center">Francesco Pio Pipino</h1>
 
-### learning in progress
-
----
-
-C++ · Haxe · Android
+<p align="center">
+  software in progress
+</p>
 
 ---
 
-### software under development
-[wakatime](https://wakatime.com/badge/user/7ec68360-7112-4ff8-a974-7cd50bd3d31e/project/e3f3d7ed-ef03-4d4a-a3fb-ce53069c099f.svg)](https://wakatime.com/badge/user/7ec68360-7112-4ff8-a974-7cd50bd3d31e/project/e3f3d7ed-ef03-4d4a-a3fb-ce53069c099f)
+## presentation
+Computer Science student.
+Making things possible even with limitations.
+---
 
-[wakatime](https://wakatime.com/badge/user/7ec68360-7112-4ff8-a974-7cd50bd3d31e/project/e3f3d7ed-ef03-4d4a-a3fb-ce53069c099f.svg)](https://wakatime.com/badge/user/7ec68360-7112-4ff8-a974-7cd50bd3d31e/project/e3f3d7ed-ef03-4d4a-a3fb-ce53069c099f)
+## focus
+
+- C++
+- Haxe
+- Android
+- Decomp
+
+---
+
+## stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,haxe,androidstudio,git,github,vscode" />
+</p>
+
+---
+
+## status
+
+software under development
