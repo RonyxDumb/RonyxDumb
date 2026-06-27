@@ -23,7 +23,7 @@
 </p>
 -->
 
-<h1 align="center">Ciao, I'm Francesco Pio Pipino 👋</h1>
+<h1 align="center">Francesco Pio Pipino 👋</h1>
 
 <p align="center">
   <strong>Computer Science Student</strong>
