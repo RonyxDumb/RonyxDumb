@@ -73,7 +73,7 @@ I am currently studying and developing:
 
 ---
 
-## 📌 Current Status
+## 📌 Software(s) Development Status
 - Super Emily Galaxy
 
 <a href="https://wakatime.com/badge/user/7ec68360-7112-4ff8-a974-7cd50bd3d31e/project/e3f3d7ed-ef03-4d4a-a3fb-ce53069c099f"><img src="https://wakatime.com/badge/user/7ec68360-7112-4ff8-a974-7cd50bd3d31e/project/e3f3d7ed-ef03-4d4a-a3fb-ce53069c099f.svg" alt="Super Emily Galaxy"></a>
