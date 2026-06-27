@@ -1,6 +1,6 @@
 <!-- Computer science enthusiast. -->
 <!--
-### Hey there! I'm a curious learner
+### Ciao!
 
 - I'm studying at a technical institute (I.T.E.S. Fraccacreta)  
 - Currently learning PC and Android app development  
@@ -23,10 +23,10 @@
 </p>
 -->
 
-<h1 align="center">Hi, I'm Francesco Pio Pipino 👋</h1>
+<h1 align="center">Ciao, I'm Francesco Pio Pipino 👋</h1>
 
 <p align="center">
-  <strong>Computer Science Student • Future Software Developer • Problem Solver</strong>
+  <strong>Computer Science Student</strong>
 </p>
 
 ---
