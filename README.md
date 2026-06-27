@@ -31,18 +31,6 @@
 
 ---
 
-## 🎓 Education
-
-📍 Technical Institute  
-**I.T.E.S. Fraccacreta**
-
-Currently focused on:
-- Computer Science fundamentals  
-- Software Development  
-- Mobile Application Development  
-
----
-
 ## 🚀 Current Mission
 
 I am currently studying and developing:
