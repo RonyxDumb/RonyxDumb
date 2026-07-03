@@ -70,6 +70,9 @@ I am currently studying and developing:
 
 <a href="https://wakatime.com/badge/user/7ec68360-7112-4ff8-a974-7cd50bd3d31e/project/bf346848-0b2d-43f5-b79b-cc95de3d1193"><img src="https://wakatime.com/badge/user/7ec68360-7112-4ff8-a974-7cd50bd3d31e/project/bf346848-0b2d-43f5-b79b-cc95de3d1193.svg" alt="wakatime"></a>
 
+- HaxeSeqPlayerSM64
+<a href="https://wakatime.com/badge/user/7ec68360-7112-4ff8-a974-7cd50bd3d31e/project/6a55bd86-7c65-451b-9400-4c81576c49eb"><img src="https://wakatime.com/badge/user/7ec68360-7112-4ff8-a974-7cd50bd3d31e/project/6a55bd86-7c65-451b-9400-4c81576c49eb.svg" alt="wakatime"></a>
+
 ---
 
 <!--
