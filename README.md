@@ -12,7 +12,7 @@
 
 -->
 
-<!-- ![francep's Stats](https://github-readme-stats.vercel.app/api?username=RonyxDumb&theme=monokai&show_icons=true&hide_border=true&count_private=true) -->
+<!-- ![francep's Stats](https://github-readme-stats.vercel.app/api?username=RonyxDumb&theme=monokai&show_icons=true&hide_border=true&count_private=false) -->
 <!-- ![RonyxDumb's GitHub stats](https://github-readme-stats.vercel.app/api?username=RonyxDumb&show_icons=true&theme=radical) -->
 
 
@@ -39,25 +39,6 @@ I am currently studying and developing:
 - 📱 Android applications  
 - 🧠 Programming logic & algorithms  
 - ⚙️ Software architecture fundamentals  
-
----
-
-## 🛠️ Technologies & Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,haxe,androidstudio,git,github,vscode" />
-
-</p>
-
-### Languages
-- **C++**
-- **Haxe**
-
-### Currently Exploring
-- Android SDK  
-- Object-Oriented Programming  
-- App Design Principles  
 
 ---
 
