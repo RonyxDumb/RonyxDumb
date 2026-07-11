@@ -3,8 +3,6 @@
 <p align="center">
   <strong>Computer Science Student</strong>
 </p>
----
-
 ## 📌 Software(s) Development Status
 - Super Emily Galaxy
 
