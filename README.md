@@ -1,31 +1,8 @@
-<!-- Computer science enthusiast. -->
-<!--
-### Ciao!
-
-<!-- HEADER BANNER -->
-<!--
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:cc0000,100:ff4d4d&height=200&section=header&text=Welcome&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
-</p>
--->
-
 <h1 align="center">Francesco Pio Pipino</h1>
 
 <p align="center">
   <strong>Computer Science Student</strong>
 </p>
-
----
-
-## 🚀 Current Mission
-
-I am currently studying and developing:
-
-- 💻 Desktop applications  
-- 📱 Android applications  
-- 🧠 Programming logic & algorithms  
-- ⚙️ Software architecture fundamentals  
-
 ---
 
 ## 📌 Software(s) Development Status
