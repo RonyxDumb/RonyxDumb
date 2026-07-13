@@ -3,7 +3,7 @@
 
 ---
 
-### 💻 Active Development
+### Active Development
 
 | Project | Coding Time |
 | :--- | :--- |
