@@ -1,6 +1,9 @@
 # Francesco Pio Pipino
 > Computer Science Student
 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RonyxDumb&show_icons=true&theme=tokyonight)
+
 ---
 
 ### Active Development
