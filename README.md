@@ -1,11 +1,6 @@
 # Francesco Pio Pipino
 > Computer Science Student
 
-![Haxe](https://img.shields.io/badge/Haxe-orange?logo=haxe)
-![OpenFL](https://img.shields.io/badge/OpenFL-white)
-![HaxeFlixel](https://img.shields.io/badge/HaxeFlixel-blue)
-![Android](https://img.shields.io/badge/Android-3DDC84?logo=android)
-
 ---
 
 ### Active Development
