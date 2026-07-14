@@ -1,7 +1,7 @@
 # Francesco Pio Pipino
 > Computer Science Student
 
-![GitHub Streak](https://streak-stats.demolab.com?user=RonyxDumb&theme=tokyonight)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=58A6FF&width=600&lines=Game+Developer;Haxe+Developer;OpenFL;Android+Apps)
 
 ---
 
